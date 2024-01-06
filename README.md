@@ -2,6 +2,7 @@
 
 GERICHT RESTAURANT Landing Page
 
+![genricht](https://github.com/dhruvv9/Gerich-Restaurant-applicaton/assets/119520814/c838d99f-2084-406c-9c99-ab8e20e9dc2f)
 
 ## This application is live on  https://gerich-tan.vercel.app/
 
